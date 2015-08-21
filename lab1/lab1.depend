@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1422601394 source:c:\users\ene\desktop\lab1\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<fstream>
+
+1423106309 source:c:\users\ene\documents\courses spring 2015\advanced prog and data structure\lab\lab1\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<fstream>
+

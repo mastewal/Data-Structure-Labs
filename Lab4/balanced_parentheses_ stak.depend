@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1426219786 source:c:\users\ene\desktop\balanced_parentheses_ stak\main.cpp
+	<string>
+	<iostream>
+	<stack>
+	"paren_Checker.h"
+	<queue>
+	<fstream>
+
+1426219922 c:\users\ene\desktop\balanced_parentheses_ stak\paren_checker.h
+
+1426219922 source:c:\users\ene\desktop\balanced_parentheses_ stak\paren_checker.cpp
+	<string>
+	<iostream>
+	<stack>
+	<queue>
+	"paren_Checker.h"
+	<cstdlib>
+	<ctime>
+
+1425507135 c:\users\ene\desktop\balanced_parentheses_ stak\paren_checker.cpp
+	<string>
+	<iostream>
+	<stack>
+	"paren_Checker.h"
+
+1426220519 source:c:\users\ene\documents\courses spring 2015\advanced prog and data structure\lab\lab4 submited\main.cpp
+	<string>
+	<iostream>
+	<stack>
+	"paren_Checker.h"
+	<queue>
+	<fstream>
+
+1426219922 c:\users\ene\documents\courses spring 2015\advanced prog and data structure\lab\lab4 submited\paren_checker.h
+
+1427568668 source:c:\users\ene\documents\courses spring 2015\advanced prog and data structure\lab\lab4 submited\paren_checker.cpp
+	<string>
+	<iostream>
+	<stack>
+	<queue>
+	"paren_Checker.h"
+	<cstdlib>
+	<ctime>
+

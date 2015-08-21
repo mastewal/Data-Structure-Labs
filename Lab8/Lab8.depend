@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1430603369 source:c:\users\ene\desktop\lab8\bst.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<cstdlib>
+	<queue>
+	<stack>
+	"BST.h"
+
+1430603115 c:\users\ene\desktop\lab8\bst.h
+
+1430600713 source:c:\users\ene\desktop\lab8\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<cstdlib>
+	<queue>
+	<stack>
+	"BST.h"
+
+1430603369 source:c:\users\ene\documents\courses spring 2015\advanced prog and data structure\lab\lab8\bst.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<cstdlib>
+	<queue>
+	<stack>
+	"BST.h"
+
+1430603115 c:\users\ene\documents\courses spring 2015\advanced prog and data structure\lab\lab8\bst.h
+
+1430600713 source:c:\users\ene\documents\courses spring 2015\advanced prog and data structure\lab\lab8\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<cstdlib>
+	<queue>
+	<stack>
+	"BST.h"
+

@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1426223804 source:c:\users\ene\desktop\checkstring\check_string.cpp
+	<string>
+	<iostream>
+	<stack>
+	<queue>
+	"check_String.h"
+	<cstdlib>
+	<ctime>
+
+1426223765 c:\users\ene\desktop\checkstring\check_string.h
+
+1426224833 source:c:\users\ene\desktop\checkstring\main.cpp
+	<string>
+	<iostream>
+	<stack>
+	"check_String.h"
+	<queue>
+	<fstream>
+
+1426223804 source:c:\users\ene\documents\courses spring 2015\advanced prog and data structure\lab\lab4 submited\checkstring\check_string.cpp
+	<string>
+	<iostream>
+	<stack>
+	<queue>
+	"check_String.h"
+	<cstdlib>
+	<ctime>
+
+1426223765 c:\users\ene\documents\courses spring 2015\advanced prog and data structure\lab\lab4 submited\checkstring\check_string.h
+
+1426224833 source:c:\users\ene\documents\courses spring 2015\advanced prog and data structure\lab\lab4 submited\checkstring\main.cpp
+	<string>
+	<iostream>
+	<stack>
+	"check_String.h"
+	<queue>
+	<fstream>
+

@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1428593302 source:c:\users\ene\desktop\robot_warriors\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Robot.h"
+	<vector>
+	<algorithm>
+	<iomanip>
+
+1428595029 c:\users\ene\desktop\robot_warriors\robot.h
+
+1428595104 source:c:\users\ene\desktop\robot_warriors\robot.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Robot.h"
+	<vector>
+
+1428593302 source:c:\users\ene\desktop\lab6\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Robot.h"
+	<vector>
+	<algorithm>
+	<iomanip>
+
+1428595029 c:\users\ene\desktop\lab6\robot.h
+
+1428595104 source:c:\users\ene\desktop\lab6\robot.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Robot.h"
+	<vector>
+
+1428593302 source:c:\users\ene\documents\courses spring 2015\advanced prog and data structure\lab\lab6\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Robot.h"
+	<vector>
+	<algorithm>
+	<iomanip>
+
+1428595029 c:\users\ene\documents\courses spring 2015\advanced prog and data structure\lab\lab6\robot.h
+
+1429134708 source:c:\users\ene\documents\courses spring 2015\advanced prog and data structure\lab\lab6\robot.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Robot.h"
+	<vector>
+

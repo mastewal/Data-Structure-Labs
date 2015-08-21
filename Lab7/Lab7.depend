@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1429895643 source:c:\users\ene\desktop\lab7\hasher.cpp
+	"HashItem.h"
+	"Hasher.h"
+	<iostream>
+	<cstdlib>
+	<algorithm>
+
+1429833107 c:\users\ene\desktop\lab7\hashitem.h
+
+1429845051 c:\users\ene\desktop\lab7\hasher.h
+
+1429833107 source:c:\users\ene\desktop\lab7\hashitem.cpp
+	"HashItem.h"
+	"Hasher.h"
+	<iostream>
+	<cstdlib>
+	<algorithm>
+
+1429892131 source:c:\users\ene\desktop\lab7\main.cpp
+	"HashItem.h"
+	"Hasher.h"
+	<iostream>
+	<cstdlib>
+	<algorithm>
+
+1437161350 source:c:\users\ene\documents\courses spring 2015\advanced prog and data structure\lab\lab7\hasher.cpp
+	"HashItem.h"
+	"Hasher.h"
+	<iostream>
+	<cstdlib>
+	<algorithm>
+
+1429833107 c:\users\ene\documents\courses spring 2015\advanced prog and data structure\lab\lab7\hashitem.h
+
+1429845051 c:\users\ene\documents\courses spring 2015\advanced prog and data structure\lab\lab7\hasher.h
+
+1429833107 source:c:\users\ene\documents\courses spring 2015\advanced prog and data structure\lab\lab7\hashitem.cpp
+	"HashItem.h"
+	"Hasher.h"
+	<iostream>
+	<cstdlib>
+	<algorithm>
+
+1437173932 source:c:\users\ene\documents\courses spring 2015\advanced prog and data structure\lab\lab7\main.cpp
+	"HashItem.h"
+	"Hasher.h"
+	<iostream>
+	<cstdlib>
+	<algorithm>
+
